@@ -10,7 +10,7 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: [/docs/assets/images/cover3.jpg](https://farm5.static.flickr.com/4669/38870572175_9a4ab24984_z.jpg)https://farm5.static.flickr.com/4669/38870572175_9a4ab24984_z.jpg
+    src: https://farm5.static.flickr.com/4669/38870572175_9a4ab24984_z.jpg
 ---
 # Ben Harris
 
